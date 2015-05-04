@@ -74,12 +74,9 @@ h5,
 h6 {
     margin: 0 0 25px;
     font-family:"Roboto";
-    font-weight: 900;
+    font-weight: normal;
 }
 
-h1 {
-    text-shadow: 1px 1px 1px silver;
-}
 
 p {
     margin: 0 0 25px;
