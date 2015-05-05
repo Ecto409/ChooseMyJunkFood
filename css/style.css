@@ -28,6 +28,19 @@
     border-radius: 3px;
 }
 
+.btn-info:after{
+    background:rgba(255,255,255, 0.3);
+    border-color: white;
+    border-radius: 3px;
+}
+
+.btn-info:focus{
+    background:rgba(255,255,255, 0.3);
+    border-color: white;
+    border-radius: 3px;
+}
+
+
 .btn-info a{
     font-weight:100;
     color:white;
