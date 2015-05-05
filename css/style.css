@@ -2,8 +2,8 @@
     color:white !important;
 }
 
-.wanted:after{
-    background-color:transparent;
+.wanted:active{
+    background-color:transparent !important;
 }
 
 .manavbar{
