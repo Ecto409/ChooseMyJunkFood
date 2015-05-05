@@ -4,6 +4,10 @@
     margin-bottom:-50px;
 }
 
+.btn{
+    padding-right:10px;
+}
+
 .btn-info{
     background-color: transparent;
     border-color: white;
