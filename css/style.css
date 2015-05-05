@@ -1,3 +1,7 @@
+.special a:hover{
+    color:black;
+}
+
 .manavbar{
     background-color: transparent;
     border: none;
