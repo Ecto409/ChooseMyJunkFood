@@ -2,7 +2,7 @@
     color:white !important;
 }
 
-.wanted:active{
+.wanted:after{
     background-color:transparent !important;
 }
 
