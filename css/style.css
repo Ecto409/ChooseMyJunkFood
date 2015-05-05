@@ -1,5 +1,5 @@
 .special a:hover{
-    color:black;
+    color:black !important;
 }
 
 .manavbar{
