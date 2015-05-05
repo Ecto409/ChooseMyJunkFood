@@ -1,3 +1,7 @@
+.navbar-inverse .navbar-toggle{
+    border-color:tranparent !important;
+}
+
 .wanted:hover{
     color:white !important;
 }
