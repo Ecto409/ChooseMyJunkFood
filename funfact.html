@@ -50,20 +50,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
-                        <h1 class="brand-heading"> 
-                        
-                        <?php
-                            $input = array("Tout un petit texte sur les glaires parce que c'est marrant", "Collibri", "Beyoncé");
-                            $rand_keys = array_rand($input);
-                            echo $input[$rand_keys];
-                        ?>
-                        
-                        </h1>
-                        
-                            <div class="row text-center">
-                                <button class="btn btn-info"><a href="funfact.php">Gimme more</a></button>
-                            </div>   
-                        
+                        <h1 class="brand-heading" id="message">Yo</h1><br>
+			<input class="btn btn-info" type="button" id="btnSearch" value="Ain't it what you wanted?" onclick="GetValue();" />
                     </div>
                 </div>
             </div>
@@ -73,6 +61,14 @@
 
 
     <!-- jQuery and javascript -->
+    <script>
+    	function GetValue()
+{
+    var myarray= new Array("item1","item2","item3","item3","item4","item5","item6","item7");
+    var random = myarray[Math.floor(Math.random() * myarray.length)];
+   document.getElementById("message").innerHTML=random;
+}
+    </script>
     <script src="js/jquery.js"></script>
     <script src="js/jquery-1.11.0.min.js"></script>
 	<script src="js/lightbox.min.js"></script>
