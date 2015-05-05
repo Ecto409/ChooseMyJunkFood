@@ -1,5 +1,9 @@
 .wanted:hover{
-    color:black !important;
+    color:white !important;
+}
+
+.wanted:after{
+    background-color:transparent;
 }
 
 .manavbar{
