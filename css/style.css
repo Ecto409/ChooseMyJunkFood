@@ -42,6 +42,7 @@
     background:rgba(255,255,255, 0.3);
     border-color: white;
     border-radius: 3px;
+    outline: none;
 }
 
 
