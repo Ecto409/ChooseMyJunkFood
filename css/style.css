@@ -104,8 +104,8 @@ h4,
 h5,
 h6 {
     margin: 0 0 25px;
-    font-family:"Roboto";
-    font-weight: bolder;
+    font-family:"Kanit";
+    font-weight: 900;
 }
 
 
@@ -343,8 +343,8 @@ a:focus {
     border-radius: 3px;
     font-size:14px;
     font-weight:bold;
-    font-family: "Roboto";
-    font-weight: 400;
+    font-family: "Kanit";
+    font-weight: 900;
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
