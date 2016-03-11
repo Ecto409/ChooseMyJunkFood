@@ -225,6 +225,7 @@ a:focus {
 }
 
 .intro {
+    color:lightsalmon;
     display: table;
     width: 100%;
     height: 100%;
