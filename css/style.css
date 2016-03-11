@@ -226,7 +226,7 @@ a:focus {
     width: 100%;
     height: 100%;
     padding: 50px 0;
-    text-align: center;
+    text-align: left;
     color: #fff;
     background: url("http://f.fwallpapers.com/images/funny-burger.jpg") no-repeat bottom center scroll;
     -webkit-background-size: cover;
